@@ -6,6 +6,3 @@ Universidad Nacional de Colombia
 
 - 1_installation.ipynb: Guía de instalación del entorno de desarrollo.
 
-## Autor
-
-Laura Hernández
